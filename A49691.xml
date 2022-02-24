@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all you taylors and brokers, who lyes [sic] in wickedness and to all you tradesmen of what trade, imployment or office soever. This to all you from the Lord, that you may return from all your evil wayes, words and works; that you may be hid in the day of his fierce wrath. Knowing also assuredly, that all your prayers, tears and sacrifices are not available, while you regard iniquity in your hearts; your meeting together, and best performances are but sin, and an ill savour in the nostrils of the Lord: therefore from them all return and repent, and leave off your sins; that you may find rest for your souls.</title>
+            <author>Latey, Gilbert, 1626-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49691</idno>
+            <idno type="STC">Wing L567</idno>
+            <idno type="STC">ESTC R216155</idno>
+            <idno type="EEBO-CITATION">99827905</idno>
+            <idno type="PROQUEST">99827905</idno>
+            <idno type="VID">32329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1852:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all you taylors and brokers, who lyes [sic] in wickedness and to all you tradesmen of what trade, imployment or office soever. This to all you from the Lord, that you may return from all your evil wayes, words and works; that you may be hid in the day of his fierce wrath. Knowing also assuredly, that all your prayers, tears and sacrifices are not available, while you regard iniquity in your hearts; your meeting together, and best performances are but sin, and an ill savour in the nostrils of the Lord: therefore from them all return and repent, and leave off your sins; that you may find rest for your souls.</title>
+                  <author>Latey, Gilbert, 1626-1705.</author>
+               </titleStmt>
+               <extent>7, [1] p. ; 4to.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Wilson, at the sign of the Black-spread-Eagle and Wind-Mill in Martins,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at foot of page 7: Gilbert Latye.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32329:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>To all you TAYLORS AND BROKERS, Who lyes in Wickedneſs: And to all you TRADESMEN Of what Trade, Imployment or Office ſoever.</p>
+            <p>This is to you all from the Lord, that you may return from all your evil wayes, words and works; that you may be hid in the day of his fierce wrath.</p>
+            <p>KNOWING<lb/> Alſo aſſuredly, that all your Prayers, Tears and Sa<g ref="char:EOLhyphen"/>crifices are not available, while you regard iniquity in your hearts; your Meeting together, and beſt per<g ref="char:EOLhyphen"/>formances are but ſin, and an ill ſavour in the No<g ref="char:EOLhyphen"/>ſtrils of the Lord: Therefore from them all return and repent, and leave off your ſins; that you may find reſt for your Souls.</p>
+            <p>London, Printed for <hi>Robert Wilſon,</hi> at the Sign of the <hi>Black-ſpread-Eagle</hi> and <hi>Wind-Mill</hi> in <hi>Martins,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32329:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="3" facs="tcp:32329:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <head>To all you <hi>Taylors</hi> and <hi>Brokers,</hi> who lies in Wickedneſs; and to all you <hi>Tradeſ-men,</hi> of what Trade, Imploy<g ref="char:EOLhyphen"/>ment, or Office ſoever.</head>
+            <p>
+               <hi>FRiends</hi> and <hi>People,</hi> The Lord God of Heaven and Earth, is appearing in the hearts and conſciences of the chil<g ref="char:EOLhyphen"/>dren of men, to ſearch out the hidden works and deeds of darkneſſe, and to ſhew all men their Iniqui<g ref="char:EOLhyphen"/>ties, Tranſgreſſions, and Sins, though never ſo ſecretly com<g ref="char:EOLhyphen"/>mitted; the Lord is come to manifeſt it, and to rip it open, though never ſo ſecret, the day of the Lord declares it; and the apperance of Chriſt, which is light, makes it known to all men, of what degree or ſort ſoever they may be, or in what place, trade or calling, (they are) or office they be of; you all are to mind the light of Chriſt in your own conſciences, and to it be obedient, that with it you may be led out of all the evill of your wayes, trades, and callings, of what ſort ſoever; the light in your conſciences will make known the evill in them all, and redeem you out of it; if to it you be obedient, you will find it ſufficient to lead you out of ſin, and from under the power of the enemy of your ſouls, by which you have long been held in bondage, to many ſins luſts and whereby the ſoul hath been long oppreſſed, and the ſpirit of the Lord greived in you, which hath many times groaned for deliverance, and doth ſtill groan and travel, that it may be de<g ref="char:EOLhyphen"/>livered from under the burden of ſin, which ſo heavily op<g ref="char:EOLhyphen"/>preſſeth, that it cryes in many of you for deliverance, from under the burden of your tranſgreſſions, which ſo heavily oppreſſes your ſouls, and it doth ſtill cry that it may be de<g ref="char:EOLhyphen"/>livered and eaſed, for it hath long borne in many of you, and the cry of it is entred into the ears of the Lord, and he
+<pb n="34" facs="tcp:32329:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 48 -->hath heard its groanings, and will alſo plead its cauſe againſt its oppreſſors, by which it hath been long held in bondage, by your cruel ſins and grievous tranſgreſſions, which you wil<g ref="char:EOLhyphen"/>fully have committed, and dayly have reſiſted; though it hath ſecretly ſmitten you in your inward parts; you have not returned but have grieved it more and more, by your open rebellion, and perverſe walking; whereby many of you have and do ſtill grieve it, yet more and more; and though it ſtill cryes in many of you, you will not regard it; but vex it ſtill more and more, for which the Lord God is grie<g ref="char:EOLhyphen"/>ved and greatly offended, for theſe your hainous tranſgreſſions, which you have dayly committed and done againſt the wit<g ref="char:EOLhyphen"/>neſſe of God in your own conſciences, which cryes for de<g ref="char:EOLhyphen"/>liverance in many of you, that it may be delivered from un<g ref="char:EOLhyphen"/>der the burden of your corruptions; and from under the power of ſin, which lyes upon your Souls, that he may heale you of your backſlidings, and cure your deadly wounds, which by your ſins you have made, and do make; for which the Lord God is greatly offended, that when he called, you did not hear, but ſtill prophaned his holy name, by your ſins, while you mention him with your mouths, and lye in open prophaneneſs, for which the Lord our God is grieved, with theſe your hanious ſins, and hipocritical profeſſion; which you poure out before him, while your hearts are not upright, but lye in all manner of prophaneneſſe againſt my holy name ſaith the Lord God, I will have none of your ſacrifices, nor yet of your offrings, therefore come no more with them before me, for they are grief unto me, I have no pleaſure in them at all, take from me the Ringing of Bells for I connot away with them, they are an abomination unto me; I will not ſmell in your ſolemn Aſſemblies, neither hath my ſoul pleaſure therein, they are all an abomination to me, and to my taſt, they are even as an unſavory ſmell which comes in my Noſtrills, I have no pleaſure therein, they are even all poluted, and your hands are full of blood, where<g ref="char:EOLhyphen"/>fore come before me no more, for I have no pleaſure in your Aſſembling, nor coming together; wherefore come ſo no more for your paths are unclean, and your wayes are polluted; and
+<pb n="39" facs="tcp:32329:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 48 -->your hands even full of blood, your ſins are very high, and your abominations very great; wherefore I will reckon with you; and for all the tranſgreſſions, which you have done ſince you rebelled againſt my witneſſe, which I have placed in your Conſciences which bears record of all your ſins, and of all the evill of your doings, even for theſe many years, which you have heaped up as wrath againſt the day of wrath, that you may be confounded by a ſudden deſtruction, and ſwift overthrow; which is coming upon you, even this City and Nation, if it ſpeedyly Repent not; and this is as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> warning unto you all, that you ſpeedily return and repent, before the ſwift hand of the Lord break out againſt you, and there be none to deliver you, nor to appeaſe my wrath ſaith the Lord of Hoſts, who hath ſpoken it; who ſhall performe this, and much more is he coming to do.</p>
+            <p>Wherefore fear the Lord God, all ye the Inhabitants of <hi>London,</hi> and elſewhere; And in it men of all ſorts, Offices, Trades, and Callings of what ſort, Trade, Office, or Im<g ref="char:EOLhyphen"/>ployment ſoever you are of; leave off the evill in them all, and from it all depart, for the Lord is wearied with it, and therefore leave it off, that your Conſciences may be clear<g ref="char:EOLhyphen"/>ed, and the ſpirit of the Lord eaſed, which is oppreſſed in any of you, by the evil uſed in your employments, which you daily are exerciſed in, and led to by the Enemy of your ſouls; ſo that you cannot truly ſerve the Lord God, nor be obedi<g ref="char:EOLhyphen"/>ent to his holy Spirit, which calls for Deliverance from under the burden of your ſins, that it may ſerve the living God, and be redeemed from all your evil wayes, both in Trades and Cal<g ref="char:EOLhyphen"/>lings, and from the evil in them all, that all deceit may be de<g ref="char:EOLhyphen"/>nied, and evil judged by the witneſs of God in you all, which he hath placed in your hearts and Conſciences, a witneſſe againſt your ſinnes, which ſo greatly oppreſſes your ſoules, that it cryes to the Lord for Deliverance, that he may avenge his cauſe upon his deadly enemies, by which its held in bondage, and long hath been oppreſſed by theſe cruel enemies, which are many ſins and luſts, for which you all muſt come to judgement that lyes in ſuch things and know a No<g ref="char:EOLhyphen"/>table Terrible day, which is appearing againſt tranſgreſſions,
+<pb n="6" facs="tcp:32329:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 49 -->and diſobedience to Gods witneſſe, which ſhewes the ſecrets of the heart in every man; and therefore take heed how you, or any of you do evill, or deceive, cozen, or cheat any one, for the Lord beholds it in you all: And where will all you Taylors, and Brokers, who lyes in wickedneſſe appear, that make a trade of ſin, to deceive, and take that which is not your own, and ſell it to an other, who knows you came not juſtly by it, and furniſh your ſelves with that which is ſtoln, and diſhoneſtly come by, and keep it in your ſhops in whole bundels of remnants and pieces? and ſuch like things as are unjuſtly gotten, which the Children of the Lord can<g ref="char:EOLhyphen"/>not buy, who are redeemed out of ſuch things, as you are in bondage to; with your many vain faſhions which you invent, and beget people into, that it is even a grief to ſee how you are ſervants of ſin, and inventers for peoples luſts, and Inſtru<g ref="char:EOLhyphen"/>ments of Satans will, whereby his worke is done: Therefore do ſo no more, but rather ſeek how to ſuppreſs them, and learn to beget people into true moderation, and out of pride, which you have been a leader into, and a preparer of the way for pride, and vanity; and delight in it, when you can moſt do it, then you are moſt eſteemed; and the more fooliſh, the more you pleaſure their vain fancies, and your own; when people looks like Apes and Fools, that it is even a ſhame to ſee them, how they are gone out of true moderation into fooliſh toyes and fancies, not like to ſober men and women, that the very Creation even groanes under your pride and abomination, which you live in; and deck your ſelves and ſervants Liveryes fooliſhly withal, that its even a ſhame to ſee them how fooliſh they are decked; and their Maſters are not wiſe in theſe things, who by their fooliſh Habit are known to ſerve ſuch or ſuch a man; and theſe things are amongſt the Rulers and Wiſe men of this generation, whoſe wiſdom the Lord will confound and lay waſte, together with all their profeſſion that yeilds no better fruits; but grieves the Lord by their vanities day by day, and ſeek not to amend it: So here men of all ſorts, and men of all degrees and imployments grieves the Lord by their ſins and tranſgreſſions which they commit, whilſt they reject Gods Wittneſs, by which they ſhould learn to a<g ref="char:EOLhyphen"/>mend
+<pb n="7" facs="tcp:32329:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 49 -->their wayes, and return from the evil of them to the Lord, that they might find mercy, and be hid in the day of his fierce wrath which is coming on the wicked, for their wic<g ref="char:EOLhyphen"/>wickedneſs; and therefore all ye Trades-men in City, Town and Countrey, learn to amend your wayes; for the Lord is co<g ref="char:EOLhyphen"/>ming near to Judgement, even to Judge all men for the evil of their wayes, who have rebelled againſt Gods faithful Witneſs, which hath cryed in you many dayes; Therefore hear what it ſpeaks to you concerning your ſins, that it may redeem you out of them all, to ſerve the living God in newneſs of life, the remainder of your dayes, that you may walk before the Lord with a pure and perfect heart, to his praiſe and glory for ever; as you own the light of Chriſt which you are enligtned withal, you will in it find power againſt the enemy of your Souls, and ſtrength againſt your ſins, when you are tempted to any evil; the light will let you ſee it, and preſerve you out of it, as you come to believe in it, and blot out that which is paſt, and make up the breach betwixt God and you, that your ſins have made while you denied his light, which ſhould have ſa<g ref="char:EOLhyphen"/>ved you; and that is it which ſhews you ſhould not ſwear, lye nor ſteal; and if you have ſworn, lyed or ſtollen, do ſo no more; but repent, and return from it, and leave it of, and fol<g ref="char:EOLhyphen"/>low Chriſt Jeſus the light, which is placed in your Conſcien<g ref="char:EOLhyphen"/>ces to condemn your ſins, as they do appear before they are acted, and give you power to reſiſt the temptation, and pre<g ref="char:EOLhyphen"/>ſerve you from condemnation due for tranſgreſſion, and give you peace and reſt for your Souls;</p>
+            <closer>
+               <signed>Which is the deſire of a Friend to all your Souls, whoſe Name is,
+GILBERT LATYE.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
